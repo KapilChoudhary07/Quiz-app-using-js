@@ -6,7 +6,8 @@ This project demonstrates basic **DOM manipulation, event handling, and logical 
 ---
 
 ## 🌐 Live Demo
-kapil-quiz-app-using-js.vercel.app
+https://kapil-quiz-app-using-js.vercel.app/
+
 ---
 
 ## ✨ Features
